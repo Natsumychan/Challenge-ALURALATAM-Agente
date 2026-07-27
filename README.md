@@ -2,12 +2,28 @@
 
 > Sistema inteligente de atención al cliente basado en **RAG (Retrieval-Augmented Generation)** desarrollado con **Streamlit**, **LangChain**, **FAISS** y modelos **Groq Llama 3.1** y **Google Gemini 2.0 Flash**.
 
+## 🚀 Probar la aplicación
+
+🌐 **Aplicación en línea**
+
+👉 https://challenge-aluralatam-agente-2026.streamlit.app/
+
+Puedes hacer preguntas sobre:
+
+- Envíos
+- Garantías
+- Devoluciones
+- Preguntas frecuentes
+- Términos y condiciones
+
 ## 📑 Tabla de Contenidos
 
 - [🤖 Asistente Virtual Corporativo AuraMarket](#-asistente-virtual-corporativo-auramarket)
+  - [🚀 Probar la aplicación](#-probar-la-aplicación)
   - [📑 Tabla de Contenidos](#-tabla-de-contenidos)
   - [📋 Descripción General](#-descripción-general)
   - [📸 Demostración e Interfaz](#-demostración-e-interfaz)
+    - [Pantalla principal](#pantalla-principal)
   - [✨ Características Principales](#-características-principales)
   - [🏗️ Arquitectura del Sistema](#️-arquitectura-del-sistema)
   - [🔄 Flujo de Funcionamiento (RAG Engine)](#-flujo-de-funcionamiento-rag-engine)
@@ -31,7 +47,13 @@ AuraMarket es un asistente virtual diseñado para responder consultas sobre env�
 
 ## 📸 Demostración e Interfaz
 
-Reemplace el siguiente marcador por una captura de pantalla del chatbot:
+### Pantalla principal
+
+![Interfaz de AuraMarket](assets/inicio.png)
+![Interfaz de AuraMarket](assets/parte1.png)
+![Interfaz de AuraMarket](assets/parte2.png)
+![Interfaz de AuraMarket](assets/parte3.png)
+![Interfaz de AuraMarket](assets/parte4.png)
 
 ```md
 ![Interfaz](docs/images/interfaz.png)
