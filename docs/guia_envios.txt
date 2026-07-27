@@ -1,10 +1,134 @@
 GUÍA DE ENVÍOS Y ENTREGAS - AURAMARKET
 
-1. Cobertura: Realizamos envíos a todo el territorio nacional a través de nuestras transportadoras aliadas.
-2. Tiempos de Entrega:
-   - Ciudades principales (Bogotá, Medellín, Cali): 2 a 4 días hábiles.
-   - Resto del país y zonas rurales: 4 a 7 días hábiles.
-3. Costos de Envío:
-   - Envío estándar: $12.000 COP.
-   - Envío GRATIS en compras superiores a $150.000 COP.
-4. Reintentos de Entrega: La transportadora realizará hasta 2 intentos de entrega. Si no es posible entregar, el paquete regresará a nuestras bodegas.
+1. COBERTURA
+
+AuraMarket realiza envíos a todo el territorio colombiano mediante una red de transportadoras aliadas, garantizando cobertura para ciudades principales, municipios intermedios y la mayoría de las zonas rurales.
+
+Nuestro objetivo es asegurar que todos los clientes reciban sus productos de manera rápida, segura y en óptimas condiciones.
+
+En algunos municipios de difícil acceso o ubicaciones especiales, los tiempos de entrega pueden variar dependiendo de la disponibilidad de las empresas transportadoras.
+
+------------------------------------------------------------
+
+2. TIEMPOS DE ENTREGA
+
+Los tiempos de entrega comienzan a contar una vez el pago ha sido aprobado y el pedido ha sido confirmado.
+
+Tiempos estimados:
+
+• Bogotá: 2 a 4 días hábiles.
+• Medellín: 2 a 4 días hábiles.
+• Cali: 2 a 4 días hábiles.
+• Otras ciudades principales: 2 a 5 días hábiles.
+• Municipios intermedios: 3 a 6 días hábiles.
+• Zonas rurales: 4 a 7 días hábiles.
+
+Durante temporadas de alta demanda, como Black Friday, Cyberlunes, Navidad u otras campañas promocionales, los tiempos de entrega pueden incrementarse debido al alto volumen de pedidos.
+
+------------------------------------------------------------
+
+3. COSTOS DE ENVÍO
+
+AuraMarket ofrece tarifas claras para todos sus clientes.
+
+• Envío estándar: $12.000 COP.
+
+• Envío gratuito para compras iguales o superiores a $150.000 COP.
+
+La promoción de envío gratuito aplica únicamente para pedidos nacionales y puede estar sujeta a campañas comerciales específicas.
+
+------------------------------------------------------------
+
+4. PREPARACIÓN DEL PEDIDO
+
+Una vez confirmado el pago:
+
+1. El pedido ingresa al sistema de preparación.
+2. Se verifica la disponibilidad de los productos.
+3. El pedido es empacado.
+4. Se entrega a la empresa transportadora.
+5. El cliente recibe un correo electrónico con el número de guía para realizar el seguimiento.
+
+------------------------------------------------------------
+
+5. SEGUIMIENTO DEL PEDIDO
+
+Cuando el pedido ha sido despachado, AuraMarket envía automáticamente al cliente:
+
+• Número de guía.
+• Nombre de la transportadora.
+• Enlace para consultar el estado del envío.
+
+La información de seguimiento puede tardar algunas horas en actualizarse según la transportadora.
+
+------------------------------------------------------------
+
+6. REINTENTOS DE ENTREGA
+
+La empresa transportadora realizará hasta dos (2) intentos de entrega.
+
+Si después de ambos intentos no es posible entregar el pedido debido a ausencia del destinatario, dirección incorrecta u otra situación atribuible al cliente, el paquete será devuelto a las bodegas de AuraMarket.
+
+En estos casos el cliente podrá solicitar un nuevo envío, el cual podrá generar costos adicionales.
+
+------------------------------------------------------------
+
+7. DIRECCIONES INCORRECTAS
+
+Es responsabilidad del cliente verificar que la dirección registrada sea correcta antes de finalizar la compra.
+
+AuraMarket no se hace responsable por retrasos ocasionados por:
+
+• Dirección incompleta.
+• Dirección incorrecta.
+• Datos de contacto erróneos.
+• Ausencia del destinatario.
+
+------------------------------------------------------------
+
+8. ESTADOS DEL PEDIDO
+
+Durante el proceso logístico un pedido puede encontrarse en alguno de los siguientes estados:
+
+• Pendiente de pago.
+• Pago confirmado.
+• En preparación.
+• Enviado.
+• Entregado.
+• Devuelto.
+
+------------------------------------------------------------
+
+9. PRODUCTOS DAÑADOS DURANTE EL TRANSPORTE
+
+Si el cliente recibe un paquete con señales de daño ocasionado durante el transporte deberá:
+
+1. Tomar fotografías del paquete.
+2. Reportar la novedad dentro de las primeras 48 horas.
+3. Contactar al servicio de atención al cliente indicando el número del pedido.
+
+AuraMarket revisará cada caso para determinar si procede el cambio del producto o la reposición correspondiente.
+
+------------------------------------------------------------
+
+10. PREGUNTAS FRECUENTES
+
+¿Cómo puedo saber dónde está mi pedido?
+
+Puedes consultar el estado del envío utilizando el número de guía enviado por correo electrónico.
+
+¿Puedo cambiar la dirección de entrega?
+
+Sí, siempre y cuando el pedido aún no haya sido despachado.
+
+¿Qué sucede si nadie recibe el paquete?
+
+La transportadora realizará un segundo intento de entrega. Si tampoco es posible entregar el pedido, este será devuelto a nuestras instalaciones.
+
+¿Qué ocurre si mi pedido llega incompleto?
+
+Debes comunicarte con el servicio de atención al cliente indicando el número del pedido y adjuntando fotografías del paquete recibido.
+
+¿Qué pasa si mi pedido presenta retrasos?
+
+Aunque AuraMarket trabaja para cumplir los tiempos estimados, pueden presentarse retrasos ocasionados por condiciones climáticas, cierres viales, alta demanda logística o situaciones ajenas a la empresa.

@@ -1,11 +1,218 @@
 POLÍTICA DE PRIVACIDAD Y TRATAMIENTO DE DATOS - AURAMARKET
-Última actualización: 2026
 
-1. Identificación del Responsable: AuraMarket S.A.S. se compromete a proteger la privacidad de sus usuarios bajo las normativas vigentes de protección de datos personales (Ley 1581).
-2. Recolección de Datos: Recopilamos información personal como nombre, dirección de correo electrónico, dirección de envío y número telefónico al realizar una compra.
-3. Finalidad del Tratamiento: Los datos son procesados exclusivamente para:
-   - Procesar y entregar tus pedidos de manera eficiente.
-   - Enviar actualizaciones sobre el estado de tus envíos.
-   - Prestar soporte de atención al cliente y resolver reclamaciones.
-4. Derechos del Titular: Puedes solicitar en cualquier momento la consulta, actualización o eliminación de tus datos escribiendo a privacidad@auramarket.com.
-5. Retención de Datos: Guardamos tus datos transaccionales por un periodo máximo de 24 meses por razones contables y legales.
+Última actualización: Enero de 2026
+
+------------------------------------------------------------
+
+1. OBJETIVO
+
+AuraMarket S.A.S. reconoce la importancia de proteger la privacidad y la información personal de sus clientes, proveedores, colaboradores y usuarios.
+
+Esta Política de Privacidad describe la forma en que recopilamos, almacenamos, utilizamos, compartimos y protegemos los datos personales suministrados por nuestros usuarios, en cumplimiento de la Ley 1581 de 2012, el Decreto 1377 de 2013 y demás normas colombianas relacionadas con la protección de datos personales.
+
+Nuestro compromiso es garantizar la confidencialidad, integridad y disponibilidad de la información suministrada por nuestros usuarios.
+
+------------------------------------------------------------
+
+2. RESPONSABLE DEL TRATAMIENTO DE DATOS
+
+Razón social:
+AuraMarket S.A.S.
+
+Correo electrónico de contacto:
+privacidad@auramarket.com
+
+Canal de atención:
+Servicio de Atención al Cliente
+
+AuraMarket es responsable del tratamiento de los datos personales recolectados a través del sitio web, la aplicación, formularios de contacto, procesos de compra y demás canales autorizados.
+
+------------------------------------------------------------
+
+3. INFORMACIÓN QUE RECOPILAMOS
+
+Durante la interacción con nuestros servicios podremos recopilar información como:
+
+• Nombre y apellidos.
+• Tipo y número de documento de identidad.
+• Dirección de correo electrónico.
+• Número de teléfono.
+• Dirección de residencia o entrega.
+• Ciudad y departamento.
+• Información relacionada con pedidos y compras.
+• Historial de transacciones.
+• Información de contacto para soporte.
+• Preferencias de comunicación.
+• Dirección IP.
+• Información básica del navegador y dispositivo utilizado para acceder a nuestros servicios.
+
+AuraMarket no almacena directamente la información financiera sensible utilizada durante los procesos de pago, la cual es administrada por las pasarelas de pago autorizadas.
+
+------------------------------------------------------------
+
+4. FINALIDAD DEL TRATAMIENTO
+
+Los datos personales serán utilizados únicamente para fines relacionados con la prestación de nuestros servicios, entre ellos:
+
+• Procesar pedidos realizados por los clientes.
+• Gestionar pagos y facturación.
+• Coordinar el despacho y entrega de productos.
+• Informar el estado de los pedidos.
+• Brindar atención al cliente.
+• Gestionar solicitudes, peticiones, quejas y reclamos.
+• Realizar procesos de devolución y garantía.
+• Enviar información relacionada con compras realizadas.
+• Mejorar la experiencia de navegación en nuestro sitio web.
+• Cumplir obligaciones legales, tributarias y contables.
+• Generar estadísticas internas para mejorar nuestros procesos.
+
+Cuando el usuario otorgue su autorización expresa, AuraMarket también podrá enviar información comercial, promociones, descuentos y novedades.
+
+------------------------------------------------------------
+
+5. AUTORIZACIÓN DEL TITULAR
+
+Al registrarse, realizar una compra o suministrar información personal mediante cualquiera de nuestros canales oficiales, el usuario autoriza a AuraMarket para realizar el tratamiento de sus datos personales conforme a esta política.
+
+La autorización podrá ser revocada en cualquier momento, siempre que no exista un deber legal o contractual que obligue a conservar determinada información.
+
+------------------------------------------------------------
+
+6. DERECHOS DEL TITULAR
+
+Los titulares de los datos personales podrán ejercer en cualquier momento los siguientes derechos:
+
+• Conocer la información personal almacenada.
+• Solicitar la actualización de sus datos.
+• Corregir información incorrecta o incompleta.
+• Solicitar la eliminación de sus datos cuando sea legalmente procedente.
+• Revocar la autorización otorgada.
+• Solicitar copia de la autorización suministrada.
+• Presentar consultas relacionadas con el tratamiento de sus datos.
+• Presentar reclamos cuando considere que sus derechos han sido vulnerados.
+
+------------------------------------------------------------
+
+7. PROCEDIMIENTO PARA EJERCER LOS DERECHOS
+
+Para ejercer cualquiera de los derechos anteriormente descritos, el titular deberá enviar una solicitud al correo electrónico:
+
+privacidad@auramarket.com
+
+La solicitud deberá contener como mínimo:
+
+• Nombre completo.
+• Documento de identidad.
+• Correo electrónico registrado.
+• Descripción clara de la solicitud.
+• Información necesaria para identificar el registro correspondiente.
+
+AuraMarket responderá las consultas y solicitudes dentro de los plazos establecidos por la legislación colombiana.
+
+------------------------------------------------------------
+
+8. CONSERVACIÓN DE LA INFORMACIÓN
+
+AuraMarket conservará los datos personales únicamente durante el tiempo necesario para cumplir las finalidades descritas en esta política y las obligaciones legales aplicables.
+
+Como regla general:
+
+• Información transaccional: hasta veinticuatro (24) meses.
+• Información requerida por normas tributarias o contables: según los plazos establecidos por la legislación colombiana.
+• Información utilizada para atención de reclamaciones: mientras sea necesaria para resolver el caso correspondiente.
+
+Una vez finalizado el período de conservación, los datos serán eliminados o anonimizados cuando sea posible.
+
+------------------------------------------------------------
+
+9. SEGURIDAD DE LA INFORMACIÓN
+
+AuraMarket implementa medidas técnicas, administrativas y organizacionales para proteger la información personal contra:
+
+• Acceso no autorizado.
+• Alteración de la información.
+• Divulgación indebida.
+• Pérdida accidental.
+• Destrucción no autorizada.
+
+Aunque aplicamos controles de seguridad razonables, ningún sistema informático puede garantizar un nivel de seguridad absoluto.
+
+------------------------------------------------------------
+
+10. USO DE COOKIES
+
+Nuestro sitio web puede utilizar cookies y tecnologías similares para:
+
+• Recordar preferencias del usuario.
+• Mejorar la navegación.
+• Analizar estadísticas de uso.
+• Optimizar el rendimiento del sitio.
+
+El usuario puede administrar o deshabilitar las cookies desde la configuración de su navegador.
+
+------------------------------------------------------------
+
+11. COMPARTICIÓN DE LA INFORMACIÓN
+
+AuraMarket únicamente compartirá información personal cuando sea necesario para la prestación de sus servicios.
+
+Esto puede incluir:
+
+• Empresas transportadoras.
+• Pasarelas de pago.
+• Proveedores tecnológicos.
+• Autoridades competentes cuando exista una obligación legal.
+
+En ningún caso AuraMarket venderá o comercializará los datos personales de sus usuarios.
+
+------------------------------------------------------------
+
+12. MODIFICACIONES A LA POLÍTICA
+
+AuraMarket podrá actualizar esta Política de Privacidad cuando sea necesario debido a cambios legales, tecnológicos o en nuestros procesos internos.
+
+Las modificaciones serán publicadas en los canales oficiales y entrarán en vigor a partir de su fecha de publicación.
+
+------------------------------------------------------------
+
+13. PREGUNTAS FRECUENTES
+
+¿Qué información recopila AuraMarket?
+
+Recopilamos únicamente la información necesaria para procesar compras, realizar entregas, brindar soporte y cumplir nuestras obligaciones legales.
+
+¿Puedo solicitar la eliminación de mis datos?
+
+Sí. Puedes solicitar la eliminación de tus datos personales enviando una solicitud al correo privacidad@auramarket.com, siempre que no exista una obligación legal de conservar dicha información.
+
+¿AuraMarket comparte mi información con otras empresas?
+
+Solo compartimos la información estrictamente necesaria con proveedores de servicios como empresas transportadoras, pasarelas de pago y autoridades cuando la ley lo requiera.
+
+¿Cuánto tiempo conservan mis datos?
+
+Como regla general, la información transaccional se conserva por un período máximo de veinticuatro (24) meses, salvo obligaciones legales que exijan un plazo mayor.
+
+¿Mis datos están protegidos?
+
+Sí. AuraMarket implementa medidas de seguridad físicas, técnicas y administrativas para proteger la información personal de sus usuarios.
+
+------------------------------------------------------------
+
+14. CANALES DE CONTACTO
+
+Para cualquier consulta relacionada con el tratamiento de datos personales puedes comunicarte con:
+
+Correo electrónico:
+privacidad@auramarket.com
+
+Horario de atención:
+
+Lunes a viernes:
+8:00 a. m. – 6:00 p. m.
+
+Sábados:
+9:00 a. m. – 1:00 p. m.
+
+Domingos y festivos:
+No hay atención.

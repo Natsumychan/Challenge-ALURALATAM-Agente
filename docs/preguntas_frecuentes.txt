@@ -1,10 +1,239 @@
 PREGUNTAS FRECUENTES (FAQ) - AURAMARKET
 
+Última actualización: Enero de 2026
+
+------------------------------------------------------------
+
+INTRODUCCIÓN
+
+En esta sección encontrarás respuestas a las preguntas más frecuentes realizadas por nuestros clientes sobre compras, pagos, envíos, devoluciones, garantías, privacidad y atención al cliente.
+
+Si no encuentras la información que necesitas, puedes comunicarte con nuestro equipo de soporte mediante los canales oficiales de AuraMarket.
+
+------------------------------------------------------------
+
+1. COMPRAS
+
+¿Cómo puedo realizar una compra?
+
+Puedes realizar tu compra seleccionando los productos de tu interés, agregándolos al carrito y siguiendo el proceso de pago hasta confirmar tu pedido.
+
+¿Necesito crear una cuenta para comprar?
+
+No es obligatorio en todos los casos. Sin embargo, crear una cuenta te permitirá consultar el historial de compras, hacer seguimiento a tus pedidos y gestionar devoluciones de manera más sencilla.
+
+¿Cómo sé si mi compra fue exitosa?
+
+Una vez el pago sea aprobado recibirás un correo electrónico con la confirmación del pedido y el número de orden.
+
+¿Puedo cancelar mi compra?
+
+Sí. Puedes solicitar la cancelación siempre que el pedido aún no haya sido despachado.
+
+------------------------------------------------------------
+
+2. MÉTODOS DE PAGO
+
 ¿Qué métodos de pago aceptan?
-Aceptamos tarjetas de crédito (Visa, Mastercard, American Express), tarjetas de débito PSE, transferencias bancarias y pago contra entrega en ciudades seleccionadas.
+
+AuraMarket acepta diferentes medios de pago para facilitar la experiencia de compra de sus clientes.
+
+Actualmente puedes pagar mediante:
+
+• Tarjetas de crédito Visa.
+• Tarjetas de crédito Mastercard.
+• Tarjetas de crédito American Express.
+• Tarjetas débito mediante PSE.
+• Transferencias bancarias.
+• Pago contra entrega en ciudades seleccionadas.
+
+Todos los pagos son procesados mediante plataformas seguras.
+
+¿Es seguro pagar en AuraMarket?
+
+Sí. Todas las transacciones utilizan plataformas de pago seguras que protegen la información financiera de nuestros clientes.
+
+¿Puedo pagar en cuotas?
+
+La posibilidad de diferir el pago dependerá de las condiciones ofrecidas por la entidad financiera emisora de la tarjeta.
+
+------------------------------------------------------------
+
+3. ENVÍOS
 
 ¿Cómo puedo rastrear mi pedido?
-Una vez despachado tu pedido, recibirás un correo electrónico con el número de guía e historial de seguimiento en tiempo real.
+
+Una vez despachado el pedido recibirás un correo electrónico con:
+
+• Número de guía.
+• Empresa transportadora.
+• Enlace para consultar el seguimiento en tiempo real.
+
+¿Cuánto tarda en llegar mi pedido?
+
+Los tiempos de entrega dependen del destino.
+
+• Ciudades principales: entre 2 y 4 días hábiles.
+• Municipios intermedios: entre 3 y 6 días hábiles.
+• Zonas rurales: entre 4 y 7 días hábiles.
+
+¿Realizan envíos a todo Colombia?
+
+Sí. AuraMarket realiza envíos a todo el territorio nacional mediante empresas transportadoras aliadas.
+
+¿El envío tiene costo?
+
+Sí.
+
+El envío estándar tiene un valor de $12.000 COP.
+
+Las compras iguales o superiores a $150.000 COP cuentan con envío gratuito.
+
+------------------------------------------------------------
+
+4. DEVOLUCIONES
+
+¿Cómo solicito una devolución?
+
+Debes enviar un correo a:
+
+devoluciones@auramarket.com
+
+Incluyendo:
+
+• Número del pedido.
+• Motivo de la devolución.
+• Fotografías del producto cuando sea necesario.
+
+¿Cuánto tiempo tengo para devolver un producto?
+
+Puedes solicitar la devolución dentro de los treinta (30) días calendario posteriores a la recepción del pedido.
+
+¿Cuánto tarda el reembolso?
+
+Después de aprobar la devolución, el reembolso será procesado entre tres (3) y cinco (5) días hábiles.
+
+¿Quién paga el envío de la devolución?
+
+Si la devolución corresponde a un error de AuraMarket o a un defecto del producto, la empresa asumirá los costos del transporte.
+
+------------------------------------------------------------
+
+5. GARANTÍAS
+
+¿Qué hago si recibo un producto defectuoso?
+
+Debes comunicarte con nuestro equipo de atención dentro de las primeras 48 horas posteriores a la recepción del pedido.
+
+¿Qué cubre la garantía?
+
+La garantía cubre defectos de fabricación conforme a las condiciones establecidas para cada producto.
+
+------------------------------------------------------------
+
+6. PRIVACIDAD
+
+¿Cómo protegen mis datos personales?
+
+AuraMarket aplica medidas técnicas y administrativas para proteger la información personal de sus usuarios conforme a la legislación colombiana.
+
+¿Puedo solicitar la eliminación de mis datos?
+
+Sí.
+
+Puedes enviar tu solicitud a:
+
+privacidad@auramarket.com
+
+¿Cómo utilizan mi información?
+
+La información se utiliza únicamente para procesar pedidos, realizar entregas, brindar soporte y cumplir obligaciones legales.
+
+------------------------------------------------------------
+
+7. CUENTA DE USUARIO
+
+Olvidé mi contraseña.
+
+Puedes utilizar la opción "Recuperar contraseña" disponible en la página de inicio de sesión.
+
+¿Puedo modificar mis datos personales?
+
+Sí.
+
+Desde tu perfil puedes actualizar algunos datos o solicitar modificaciones mediante nuestros canales de atención.
+
+------------------------------------------------------------
+
+8. SERVICIO AL CLIENTE
+
+¿Cómo puedo comunicarme con AuraMarket?
+
+Puedes hacerlo mediante:
+
+• Chat en línea.
+• Correo electrónico.
+• Formulario de contacto.
+
+Correo de soporte:
+
+soporte@auramarket.com
 
 ¿Ofrecen atención telefónica?
-Nuestro canal principal es digital. Puedes comunicarte vía chat en línea o enviando un correo a soporte@auramarket.com.
+
+Nuestro canal principal de atención es digital.
+
+Puedes comunicarte mediante el chat disponible en la plataforma o enviando un correo electrónico a soporte@auramarket.com.
+
+Horario de atención:
+
+Lunes a viernes:
+8:00 a. m. – 6:00 p. m.
+
+Sábados:
+9:00 a. m. – 1:00 p. m.
+
+Domingos y festivos:
+No hay atención.
+
+------------------------------------------------------------
+
+9. PEDIDOS
+
+¿Puedo modificar mi pedido después de realizar la compra?
+
+Sí, siempre que el pedido aún no haya sido despachado.
+
+¿Qué sucede si mi pedido llega incompleto?
+
+Debes comunicarte con el equipo de soporte indicando el número del pedido y adjuntando fotografías del paquete recibido.
+
+¿Qué ocurre si mi pedido presenta retrasos?
+
+Algunas situaciones como condiciones climáticas, alta demanda o novedades logísticas pueden afectar los tiempos de entrega.
+
+------------------------------------------------------------
+
+10. CONTACTO
+
+Si tu consulta no aparece en este documento puedes comunicarte con AuraMarket mediante los siguientes canales:
+
+Soporte general:
+soporte@auramarket.com
+
+Devoluciones:
+devoluciones@auramarket.com
+
+Privacidad:
+privacidad@auramarket.com
+
+Horario de atención:
+
+Lunes a viernes:
+8:00 a. m. – 6:00 p. m.
+
+Sábados:
+9:00 a. m. – 1:00 p. m.
+
+Domingos y festivos:
+No hay atención.
