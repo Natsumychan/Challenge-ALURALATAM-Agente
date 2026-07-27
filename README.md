@@ -24,6 +24,10 @@ Puedes hacer preguntas sobre:
   - [📋 Descripción General](#-descripción-general)
   - [📸 Demostración e Interfaz](#-demostración-e-interfaz)
     - [Pantalla principal](#pantalla-principal)
+    - [Realizar una pregunta](#realizar-una-pregunta)
+    - [Respuesta del agente](#respuesta-del-agente)
+    - [Continuación de la conversación](#continuación-de-la-conversación)
+    - [Segunda respuesta del agente](#segunda-respuesta-del-agente)
   - [✨ Características Principales](#-características-principales)
   - [🏗️ Arquitectura del Sistema](#️-arquitectura-del-sistema)
   - [🔄 Flujo de Funcionamiento (RAG Engine)](#-flujo-de-funcionamiento-rag-engine)
@@ -50,14 +54,22 @@ AuraMarket es un asistente virtual diseñado para responder consultas sobre env�
 ### Pantalla principal
 
 ![Interfaz de AuraMarket](assets/inicio.png)
-![Interfaz de AuraMarket](assets/parte1.png)
-![Interfaz de AuraMarket](assets/parte2.png)
-![Interfaz de AuraMarket](assets/parte3.png)
-![Interfaz de AuraMarket](assets/parte4.png)
 
-```md
-![Interfaz](docs/images/interfaz.png)
-```
+### Realizar una pregunta
+
+![Interfaz de AuraMarket](assets/parte1.png)
+
+### Respuesta del agente
+
+![Interfaz de AuraMarket](assets/parte2.png)
+
+### Continuación de la conversación
+
+![Interfaz de AuraMarket](assets/parte3.png)
+
+### Segunda respuesta del agente
+
+![Interfaz de AuraMarket](assets/parte4.png)
 
 ## ✨ Características Principales
 
