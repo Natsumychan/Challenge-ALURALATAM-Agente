@@ -40,7 +40,9 @@ Asistente Virtual AuraMarket es un agente conversacional de Inteligencia Artific
 
 El asistente actúa como un canal centralizado de atención al cliente en tiempo real mediante arquitectura RAG (Retrieval-Augmented Generation). Procesa e indexa la documentación oficial de la empresa (guías de envíos, políticas de devoluciones, términos y condiciones, avisos de privacidad y preguntas frecuentes) para responder con exactitud sin incurrir en alucinaciones de información.
 
-[!NOTE]
+$$!NOTE$$
+
+
 🚧 Estado del Proyecto: Funcional y En Producción Local
 
 El agente cuenta con un motor de búsqueda vectorial local FAISS, caché de recursos optimizado en Streamlit, fallback dinámico de modelos de lenguaje (Groq Llama 3.1 y Google Gemini 2.0 Flash) y un script automatizado de diagnóstico (test_agente.py).
@@ -65,6 +67,7 @@ El chatbot ofrece una experiencia fluida e interactiva mediante una interfaz lim
 +-----------------------------------------------------------------------+
 
 
+
 🎬 Video Tutorial y Demostración
 
 A continuación se muestra el video guía interactivo donde se explica paso a paso el funcionamiento del sistema RAG, la integración de modelos y cómo interactuar con el agente en Streamlit:
@@ -79,7 +82,7 @@ Prueba del Agente: Consultas en vivo sobre envíos, garantías y devoluciones de
 
 Diagnóstico con test_agente.py: Verificación paso a paso del estado de las API Keys y la base de conocimiento.
 
-(Nota: Reemplaza TU_VIDEO_ID en la URL de la imagen y el enlace con el ID de tu video publicado en YouTube, Loom o Vimeo).
+(Nota: Reemplaza TU_VIDEO_ID en la URL de la imagen y del enlace con el ID de tu video publicado en YouTube).
 
 ✨ Características Principales
 
@@ -120,28 +123,24 @@ graph TD
     ProviderSelector -->|Respuesta Final| StreamlitUI
 
 
+
 🔄 Flujo de Funcionamiento (RAG Engine)
 
 El proceso de respuesta del asistente sigue 5 fases clave:
 
 Carga e Ingesta de Documentos:
-
 obtener_retriever() analiza la carpeta ./docs, cargando todos los archivos .txt en codificación UTF-8 mediante DirectoryLoader y TextLoader.
 
 Segmentación Semántica (Chunking):
-
 Los documentos se dividen en fragmentos de chunk_size=1000 caracteres con un traslape (chunk_overlap=200) mediante RecursiveCharacterTextSplitter.
 
 Vectorización y Persistencia Local:
-
 Cada bloque es convertido a vectores densos mediante el modelo local de código abierto all-MiniLM-L6-v2 de HuggingFace y almacenado en un índice en memoria FAISS.
 
 Búsqueda y Recuperación (Retrieval):
-
 Cuando el usuario envía una consulta, el retriever extrae los 3 fragmentos más relevantes (k=3) utilizando distancia de similitud coseno.
 
 Síntesis y Respuesta Aumentada (Generation):
-
 El System Prompt inyecta el contexto recuperado y la pregunta del usuario hacia el LLM seleccionado (Groq Llama 3.1 o Gemini 2.0 Flash), entregando una respuesta clara y profesional.
 
 ⚡ Tecnologías Principales
@@ -179,45 +178,19 @@ AuraMarket-Agent/
 └── README.md                     # Documentación oficial del proyecto
 
 
+
 📄 Cobertura de Documentación de AuraMarket
 
 El agente está capacitado para resolver consultas de las siguientes áreas operativas:
 
-Documento
+|
 
-Temas Cubiertos
-
-Ejemplo de Pregunta Resuelta
-
-guia_envios.txt
-
-Tiempos de entrega, envíos gratis > $150.000 COP, cobertura nacional.
-
-"¿Cuánto tarda en llegar un pedido a Medellín?"
-
-politica_devoluciones.txt
-
-Plazo de 30 días, estado de etiquetas, proceso de reembolso.
-
-"¿Qué necesito para devolver una prenda defectuosa?"
-
-politica_privacidad.txt
-
-Ley 1581, retención de datos por 24 meses, derechos de titular.
-
-"¿Cómo solicito la eliminación de mis datos?"
-
-preguntas_frecuentes.txt
-
-Métodos de pago (PSE, Tarjetas), facturación y rastreo de guía.
-
-"¿Puedo pagar con tarjeta de crédito internacional?"
-
-terminos_condiciones.txt
-
-Garantía de fábrica (12 meses), términos legales de compra.
-
-"¿Qué cubre la garantía de fábrica de AuraMarket?"
+| Documento | Temas Cubiertos | Ejemplo de Pregunta Resuelta |
+| guia_envios.txt | Tiempos de entrega, envíos gratis > $150.000 COP, cobertura nacional. | "¿Cuánto tarda en llegar un pedido a Medellín?" |
+| politica_devoluciones.txt | Plazo de 30 días, estado de etiquetas, proceso de reembolso. | "¿Qué necesito para devolver una prenda defectuosa?" |
+| politica_privacidad.txt | Ley 1581, retención de datos por 24 meses, derechos de titular. | "¿Cómo solicito la eliminación de mis datos?" |
+| preguntas_frecuentes.txt | Métodos de pago (PSE, Tarjetas), facturación y rastreo de guía. | "¿Puedo pagar con tarjeta de crédito internacional?" |
+| terminos_condiciones.txt | Garantía de fábrica (12 meses), términos legales de compra. | "¿Qué cubre la garantía de fábrica de AuraMarket?" |
 
 🛠️ Instalación y Ejecución Local
 
@@ -225,6 +198,7 @@ Garantía de fábrica (12 meses), términos legales de compra.
 
 git clone https://github.com/tu-usuario/auramarket-agent.git
 cd auramarket-agent
+
 
 
 2. Crear y activar el entorno virtual
@@ -238,9 +212,11 @@ python -m venv venv
 source venv/bin/activate
 
 
+
 3. Instalar dependencias
 
 pip install streamlit langchain langchain-community langchain-core langchain-text-splitters faiss-cpu sentence-transformers python-dotenv langchain-groq langchain-google-genai
+
 
 
 4. Configurar variables de entorno (.env)
@@ -252,11 +228,13 @@ GROQ_API_KEY=gsk_tu_clave_de_groq_aqui
 GOOGLE_API_KEY=AIzaSy_tu_clave_de_google_aqui
 
 
+
 💡 Nota: Puedes obtener una API Key gratuita de Groq en Groq Console o de Google en Google AI Studio.
 
 5. Iniciar la aplicación
 
 streamlit run app.py
+
 
 
 Accede desde tu navegador web en: http://localhost:8501
@@ -266,6 +244,7 @@ Accede desde tu navegador web en: http://localhost:8501
 El proyecto incluye una herramienta de diagnóstico para verificar que todos los componentes estén funcionando correctamente antes de lanzar la interfaz gráfica:
 
 python test_agente.py
+
 
 
 El script verifica automáticamente:
@@ -282,55 +261,29 @@ El script verifica automáticamente:
 
 🤖 Modelos de LLM y Embeddings Soportados
 
-Componente
-
-Modelo / Tecnología
-
-Tipo / Proveedor
-
-Propósito
-
-Embeddings
-
-all-MiniLM-L6-v2
-
-HuggingFace (Local)
-
-Vectorización rápida sin consumo de API
-
-Vector DB
-
-FAISS
-
-Facebook AI Similarity Search
-
-Almacenamiento e índice de búsqueda local
-
-LLM (Opción 1)
-
-llama-3.1-8b-instant
-
-Groq API
-
-Inferencia ultrarrápida (Motor Principal)
-
-LLM (Opción 2)
-
-gemini-2.0-flash
-
-Google AI Studio
-
-Inferencia de alta capacidad y fallback
+| Componente | Modelo / Tecnología | Tipo / Proveedor | Propósito |
+| Embeddings | all-MiniLM-L6-v2 | HuggingFace (Local) | Vectorización rápida sin consumo de API |
+| Vector DB | FAISS | Facebook AI Similarity Search | Almacenamiento e índice de búsqueda local |
+| LLM (Opción 1) | llama-3.1-8b-instant | Groq API | Inferencia ultrarrápida (Motor Principal) |
+| LLM (Opción 2) | gemini-2.0-flash | Google AI Studio | Inferencia de alta capacidad y fallback |
 
 🚀 Roadmap y Mejoras Futuras
 
-[ ] 📄 Soporte Multiformato: Ampliar la ingesta de documentos a archivos PDF y DOCX.
+$$$$
 
-[ ] 💾 Persistencia de Índice FAISS: Guardar el índice vectorial en disco (faiss.write_index) para acelerar el inicio inicial.
+ 📄 Soporte Multiformato: Ampliar la ingesta de documentos a archivos PDF y DOCX.
 
-[ ] 🌐 Despliegue Cloud: Publicación en Streamlit Community Cloud o Render con variables de entorno seguras.
+$$$$
 
-[ ] 📊 Evaluación RAG (Ragas): Medición de métricas de fidelidad (faithfulness) y relevancia de respuestas.
+ 💾 Persistencia de Índice FAISS: Guardar el índice vectorial en disco (faiss.write_index) para acelerar el inicio inicial.
+
+$$$$
+
+ 🌐 Despliegue Cloud: Publicación en Streamlit Community Cloud o Render con variables de entorno seguras.
+
+$$$$
+
+ 📊 Evaluación RAG (Ragas): Medición de métricas de fidelidad (faithfulness) y relevancia de respuestas.
 
 📝 Licencia
 
