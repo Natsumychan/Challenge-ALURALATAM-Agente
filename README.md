@@ -28,6 +28,12 @@ Puedes hacer preguntas sobre:
     - [Respuesta del agente](#respuesta-del-agente)
     - [Continuación de la conversación](#continuación-de-la-conversación)
     - [Segunda respuesta del agente](#segunda-respuesta-del-agente)
+  - [📌 Tipos de consultas soportadas](#-tipos-de-consultas-soportadas)
+      - [📦 Guía de Envíos y Entregas](#-guía-de-envíos-y-entregas)
+      - [🔄 Política de Devoluciones y Reembolso](#-política-de-devoluciones-y-reembolso)
+      - [🔐 Política de Privacidad y Tratamiento de Datos](#-política-de-privacidad-y-tratamiento-de-datos)
+      - [❓ Preguntas Frecuentes (FAQ)](#-preguntas-frecuentes-faq)
+      - [📄 Términos y Condiciones Generales](#-términos-y-condiciones-generales)
   - [✨ Características Principales](#-características-principales)
   - [🏗️ Arquitectura del Sistema](#️-arquitectura-del-sistema)
   - [🔄 Flujo de Funcionamiento (RAG Engine)](#-flujo-de-funcionamiento-rag-engine)
@@ -70,6 +76,76 @@ AuraMarket es un asistente virtual diseñado para responder consultas sobre env�
 ### Segunda respuesta del agente
 
 ![Interfaz de AuraMarket](assets/parte4.png)
+
+## 📌 Tipos de consultas soportadas
+
+El asistente virtual AuraMarket responde preguntas basándose exclusivamente en la documentación corporativa indexada en su base de conocimiento. Actualmente puede resolver consultas relacionadas con los siguientes documentos:
+
+#### 📦 Guía de Envíos y Entregas
+
+Ejemplos de consultas:
+
+- ¿Cuánto tarda en llegar un pedido a Medellín?
+- ¿Qué ciudades tienen cobertura de envío?
+- ¿Cuáles son los costos de envío?
+- ¿A partir de qué valor el envío es gratuito?
+- ¿Cómo puedo hacer seguimiento a mi pedido?
+
+---
+
+#### 🔄 Política de Devoluciones y Reembolso
+
+Ejemplos de consultas:
+
+- ¿Cuánto tiempo tengo para solicitar una devolución?
+- ¿Qué condiciones debe cumplir un producto para ser devuelto?
+- ¿Cómo solicito un reembolso?
+- ¿Cuánto tarda el proceso de devolución?
+- ¿Qué productos no son elegibles para devolución?
+
+---
+
+#### 🔐 Política de Privacidad y Tratamiento de Datos
+
+Ejemplos de consultas:
+
+- ¿Cómo protege AuraMarket mis datos personales?
+- ¿Qué información personal recopila la empresa?
+- ¿Cómo solicito la actualización o eliminación de mis datos?
+- ¿Durante cuánto tiempo conservan mi información?
+- ¿Cuáles son mis derechos como titular de los datos?
+
+---
+
+#### ❓ Preguntas Frecuentes (FAQ)
+
+Ejemplos de consultas:
+
+- ¿Qué métodos de pago acepta AuraMarket?
+- ¿Cómo puedo recuperar mi contraseña?
+- ¿Cómo contacto al servicio al cliente?
+- ¿Puedo modificar un pedido después de realizar la compra?
+- ¿Cómo consulto el estado de mi pedido?
+
+---
+
+#### 📄 Términos y Condiciones Generales
+
+Ejemplos de consultas:
+
+- ¿Cuáles son las condiciones generales de compra?
+- ¿Qué responsabilidades tiene AuraMarket como vendedor?
+- ¿Cuáles son las obligaciones del cliente?
+- ¿Qué limitaciones de responsabilidad existen?
+- ¿Cómo se gestionan las garantías de los productos?
+
+---
+
+> [!IMPORTANT]
+> Todas las respuestas son generadas mediante una arquitectura **Retrieval-Augmented Generation (RAG)**. Antes de responder, el sistema recupera los fragmentos más relevantes de la documentación corporativa y utiliza ese contexto para generar una respuesta precisa y fundamentada.
+
+> [!NOTE]
+> Si una consulta no está relacionada con la documentación disponible (por ejemplo, preguntas sobre deportes, política, actualidad o temas ajenos a AuraMarket), el asistente indicará que no dispone de información suficiente para responder y sugerirá contactar al equipo de soporte cuando corresponda.
 
 ## ✨ Características Principales
 
